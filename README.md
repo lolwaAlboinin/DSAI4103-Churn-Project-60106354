@@ -32,6 +32,12 @@ The dashboard includes:
 - Scikit-learn
 - SHAP
 
+## Explainability
+
+The model explainability was implemented using SHAP (SHapley Additive Explanations). 
+SHAP helps interpret the impact of each feature on the model's predictions and 
+provides insights into which factors contribute most to customer churn.
+
 ## Author
 Student Name: Lolwa Alboinin
 Student ID: 60106354
